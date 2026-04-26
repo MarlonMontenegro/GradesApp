@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217458357588",
+    "project_id": "loginandroid-cbcfc",
+    "storage_bucket": "loginandroid-cbcfc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217458357588:android:d1de516b9d66c3ca5fc4c1",
+        "android_client_info": {
+          "package_name": "com.udb.gradesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIHfTge1jdw3508EyOmQ5B1JTsh0fUdsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
