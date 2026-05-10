@@ -21,7 +21,4 @@ class GradeController {
         }
     }
 
-    fun validateGrades(grades: List<Double>): Boolean {
-        return grades.all {it in 0.0..10.0}
-    }
-}
+    
